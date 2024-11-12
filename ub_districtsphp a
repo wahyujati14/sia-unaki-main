@@ -1,0 +1,469 @@
+[33mcommit 362466e22827944abdd9f6cf8dea249370e665be[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 11:18:35 2022 +0700
+
+    duration
+
+[33mcommit 40d899ad36fad7e3970f37269d584ef2f967e3c7[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 11:13:03 2022 +0700
+
+    change bayar sekarang to target blank4
+
+[33mcommit f540b31190c6a05b59df9008e716efddf00837f4[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 11:09:20 2022 +0700
+
+    change bayar sekarang to target blank3
+
+[33mcommit bcab4cb8cefcdc857765e3e1d2fbb30db8d05b01[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 11:04:38 2022 +0700
+
+    change bayar sekarang to target blank2
+
+[33mcommit 069a141441801f5286ac0692b08a2c386386d8be[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 11:03:10 2022 +0700
+
+    change bayar sekarang to target blank
+
+[33mcommit 205d8a9fa1624331d083e7155a15951ee01f12e3[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 10:54:29 2022 +0700
+
+    bayar sekarang
+
+[33mcommit e7536a2ac5164deec686b6704fcdd8b7726ae4c1[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 10:42:10 2022 +0700
+
+    bug fix alert
+
+[33mcommit 24eef375bdc3a85084326eed0ba11e08243d7450[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 10:37:34 2022 +0700
+
+    delete with bug fix
+
+[33mcommit 021e1387b07f443e2c386159763c2591d81889e1[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 10:25:45 2022 +0700
+
+    fix ujian
+
+[33mcommit 8d0795690c04acc10f282bacbf83d6dc546f64bb[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 16 09:04:31 2022 +0700
+
+    dinamical certificate
+
+[33mcommit 65cd367d77639f3515ddc5a49050de850c9a00c3[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Thu Sep 15 15:51:15 2022 +0700
+
+    fix announcement 2
+
+[33mcommit 11654201549f5577f69936f0c4d492bdfad37df0[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Thu Sep 15 08:09:22 2022 +0700
+
+    email send approve
+
+[33mcommit a09e35336a2a108ee7a76eeaa0b112921d3199c2[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 14 09:28:06 2022 +0700
+
+    approve withoud email sender
+
+[33mcommit b05fc06e020771f7ad8bac0ba045586e5988363c[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 14 08:13:46 2022 +0700
+
+    periode dan skd
+
+[33mcommit d61ef643bb49c0ce1425c7bcc4456cbb4878a83e[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Mon Sep 12 23:14:14 2022 +0700
+
+    announcement
+
+[33mcommit f3c41e98f3a29b704c3a004d4c9e80fe802ee1f6[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Thu Sep 8 14:41:31 2022 +0700
+
+    fix bug
+
+[33mcommit 60a15494d7b0cea9ee013ef63baf8fe7d159de17[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Thu Sep 8 08:05:55 2022 +0700
+
+    pembayaran
+
+[33mcommit cfbc6bb47bee99f9950cf73747fe53775a218ce6[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:50:26 2022 +0700
+
+    admin handle with xendit
+
+[33mcommit 226a8779d068f8890c0964f95b110e6537ead602[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:44:33 2022 +0700
+
+    return success xendit
+
+[33mcommit 0d5915786421f6661f53a785330515154a60bec5[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:20:30 2022 +0700
+
+    return response not found4
+
+[33mcommit 40fc020bcba966f10f8b740e716083bd1eef3e7e[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:19:08 2022 +0700
+
+    return response not found3
+
+[33mcommit 44e55f284a3cbd74b0091bcdda3c82de05ff90ca[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:17:13 2022 +0700
+
+    return response not found2
+
+[33mcommit 987b0a0a373a7cdbfbb4e75be46c1703f9fc5f5e[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:15:50 2022 +0700
+
+    return response not found
+
+[33mcommit ad9b3cf15836032d8f4e1ee360aea8063033e4ea[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:15:04 2022 +0700
+
+    post callback
+
+[33mcommit b291c375b06d3d1fefe2d85cdc8c42aff8ce630f[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:10:01 2022 +0700
+
+    post callback
+
+[33mcommit 9a3eef6b430b2120cf360a01e54baee99bd60560[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:05:21 2022 +0700
+
+    delete payment helper2
+
+[33mcommit cf563e44252d028364d7aea81ce871ef93d817be[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 21:04:05 2022 +0700
+
+    delete payment helper
+
+[33mcommit 003685544f38c0e406a3b9b288dca2680a31c92a[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Sep 7 20:23:03 2022 +0700
+
+    callback xendit
+
+[33mcommit b11e1a23c3528d41bbc259bf60030fbac8a28e31[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Mon Sep 5 22:36:08 2022 +0700
+
+    paymnet type and payment registration
+
+[33mcommit b9c083dd4243fa0f3e37c4a0f39169849b009cce[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Fri Sep 2 15:29:19 2022 +0700
+
+    add hasil ujian dan disable verifikasi data user
+
+[33mcommit c83a2c5c96ae967605fb3528fd4e249c7a635e7a[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Aug 31 15:39:32 2022 +0700
+
+    fix bug
+
+[33mcommit 3a2b0b25a889a0cd0b97d8ee23208682c1b54af4[m
+Merge: 5aa87d5 77bea37
+Author: Cipta Adhi 207.83 <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 31 13:53:46 2022 +0700
+
+    Merge branch 'main' of https://gitlab.com/ciptaadhinugraha/sia-unaki
+
+[33mcommit 5aa87d57f4e0b00a29cd4130f12225a88a730abb[m
+Author: Cipta Adhi 207.83 <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 31 13:53:28 2022 +0700
+
+    mode
+
+[33mcommit 77bea37a4d89a5e1dbaab2d646832223e4d8eda5[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Aug 31 13:37:36 2022 +0700
+
+    bug fix dan tampilan user exam2
+
+[33mcommit 52f4b2a5f740437273ebd06b6fd63f64aad504fb[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Aug 31 13:35:56 2022 +0700
+
+    bug fix dan tampilan user exam
+
+[33mcommit ac64d6b8dc425181a4930eb143c913d04374b063[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Aug 31 09:51:48 2022 +0700
+
+    memperbaiki bug
+
+[33mcommit 9998692f3960ada781cf413bbee1d71dc2501840[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Wed Aug 31 07:14:38 2022 +0700
+
+    middleware whereiam
+
+[33mcommit 339b7c79b8cd72e3d5acb3581196299c92dd088e[m
+Author: bagubragowo <service.distaru@gmail.com>
+Date:   Thu Aug 25 07:53:07 2022 +0700
+
+    fix bug file verification
+
+[33mcommit 790ecb1f8af9400ed7e00332bfc9efeba87b35b7[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 24 09:04:12 2022 +0700
+
+    add payment registration
+
+[33mcommit cddbd6478bd16f1414b28312fe852233a1c1d9ad[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Aug 22 23:38:28 2022 +0700
+
+    22082022
+
+[33mcommit 8fd7889446ece28ba69d7c2ef901437c6bb16bb4[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 10 14:03:13 2022 +0700
+
+    fix tampilan login dan registrasi
+
+[33mcommit c841df0573483f6a7c9c616d813f40349ae5337f[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 10 08:24:18 2022 +0700
+
+    tampilan new
+
+[33mcommit d794973dd7b22bebb22f0fb3c57205bf4d9b7910[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Tue Aug 9 17:09:06 2022 +0700
+
+    exam edit
+
+[33mcommit 5fe0ac00809647015b64d0bd5a32cda7a432f077[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Tue Aug 9 15:56:10 2022 +0700
+
+    fix user mahasiswa andb serach
+
+[33mcommit ee6a3bb10ae0bee100e25003d21f22f6e0ab09c9[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Tue Aug 9 11:48:36 2022 +0700
+
+    fix detail user mahasiswa
+
+[33mcommit fc6513f858815f2dcfef0366c8c5570b6a69b049[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Aug 8 10:58:36 2022 +0700
+
+    fix tampilan default register 2
+
+[33mcommit b2f8ad613e84e6527ac8eb5d82c999935804199c[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Aug 8 10:42:52 2022 +0700
+
+    fix tampilan default register
+
+[33mcommit c9f90c9fa9944d85f193c9c6cdda80dd066efc71[m
+Merge: 6b0ee41 ef576eb
+Author: Bagu bragowo <bagubragowo3@gmail.com>
+Date:   Thu Aug 4 02:12:47 2022 +0000
+
+    Merge branch 'master' into 'main'
+    
+    unaki bug fix server
+    
+    See merge request ciptaadhinugraha/sia-unaki!4
+
+[33mcommit ef576ebcff38687c2799e8c38180ebadfccccae7[m
+Author: ciptaadhinugraha creative <ciptaadhinugraha@gmail.com>
+Date:   Thu Aug 4 09:07:30 2022 +0700
+
+    unaki bug fix server
+
+[33mcommit 6b0ee4176efccad88183987961639868ddcd8a73[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 3 17:32:48 2022 +0700
+
+    live unaki2
+
+[33mcommit 8aeeb7446f0352c52295e49d84b32d0cf516d12e[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Wed Aug 3 17:17:16 2022 +0700
+
+    live unaki
+
+[33mcommit 21797fd1cba8701a12747458666840764368a2df[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Aug 1 09:20:00 2022 +0700
+
+    add stisla template
+
+[33mcommit 7b4d0106e2dd22e1c836e1ff4c68f5cba16f022c[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Thu Jul 21 13:21:24 2022 +0700
+
+    register unaki
+
+[33mcommit 271dbe328a32785ba000f17629cf0c77463f7606[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Jul 18 16:54:28 2022 +0700
+
+    fix Wilayah2
+
+[33mcommit 7edf34bf7f06bc3121e0c0d39515d6cb89a48494[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Jul 18 16:52:05 2022 +0700
+
+    fix Wilayah
+
+[33mcommit 9da66636dcd0ae67130f0a097cd6ae0662d4ccee[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Jul 18 15:14:20 2022 +0700
+
+    region to province
+
+[33mcommit 1175178047e42a2e7fa477f0cb6b073ee32ad163[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Jul 18 14:55:43 2022 +0700
+
+    models
+
+[33mcommit 5d4a1dfb5f6cba07e5a0f233cd5c8134ef829acf[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Mon Jul 18 14:05:45 2022 +0700
+
+    migration fix
+
+[33mcommit 1f4309ad8869858c1038824c5d6392b47e46683e[m
+Merge: 28542ce bc43c65
+Author: Bagu bragowo <bagubragowo3@gmail.com>
+Date:   Wed Jul 13 09:32:39 2022 +0000
+
+    Merge branch 'anif' into 'main'
+    
+    Anif
+    
+    See merge request ciptaadhinugraha/sia-unaki!3
+
+[33mcommit bc43c6525e72e1128a76fda1a9c24da92972a9f6[m
+Author: anifarza <57906424+anifarza@users.noreply.github.com>
+Date:   Tue Jun 28 09:48:48 2022 +0700
+
+    fix registrasi
+
+[33mcommit b6efaa570f7b36b23584e85ca9b4360adb876066[m
+Author: anifarza <57906424+anifarza@users.noreply.github.com>
+Date:   Sun Jun 26 14:45:16 2022 +0700
+
+    add page failed ujian, success ujian, validation repeat ujian
+
+[33mcommit 5ed272b6830f15879ba8161843a1860ba8cd978f[m
+Author: anifarza <57906424+anifarza@users.noreply.github.com>
+Date:   Fri Jun 24 17:39:40 2022 +0700
+
+    fix upload berkas,tambah sumber informasi,menampilkan data diri di home
+
+[33mcommit b0415b855b4db6265be9392bfa992c12d264e3df[m
+Author: anifarza <57906424+anifarza@users.noreply.github.com>
+Date:   Thu Jun 9 17:05:28 2022 +0700
+
+    make model,make seeder region,make register menu
+
+[33mcommit 379a38a9a7a914d15d2b19611d1f904373042659[m
+Author: anifarza <57906424+anifarza@users.noreply.github.com>
+Date:   Wed Jun 8 17:05:22 2022 +0700
+
+    create migration user idendity and exam
+
+[33mcommit 28542cedfb948a6deeeea366cdce70464a9995c8[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 14:52:53 2022 +0700
+
+    fix register unaki
+
+[33mcommit 8b8ab9938386a0c39aa443f6145fba29765190af[m
+Merge: c52694f 2cbbc01
+Author: ciptaadhinugraha creative <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 07:21:59 2022 +0000
+
+    Merge branch 'develop' into 'main'
+    
+    Merging Develop into Main
+    
+    See merge request ciptaadhinugraha/sia-unaki!2
+
+[33mcommit 2cbbc016e0a14d480ccf9c30c9f4e60f39dd3cea[m
+Merge: 6976cdc c52694f
+Author: khafidhasukma <khafidhasukma@gmail.com>
+Date:   Thu May 19 14:13:45 2022 +0700
+
+    Merge branch 'main' of https://gitlab.com/ciptaadhinugraha/sia-unaki
+
+[33mcommit 6976cdcec60811602a9e84ee612dce8532d7e40a[m
+Author: khafidhasukma <khafidhasukma@gmail.com>
+Date:   Thu May 19 13:56:08 2022 +0700
+
+    update bagian register
+
+[33mcommit c52694f31076bfebd094c1fdc7091b4bf951a752[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 13:47:05 2022 +0700
+
+    validate
+
+[33mcommit b43e70a4939e73fe8d4d94e16667218b1430a3e8[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 13:36:00 2022 +0700
+
+    fix user regis
+
+[33mcommit 51c12f1d77009e51a040fd89f1df6af76666424b[m
+Merge: 61a0981 29e1c56
+Author: ciptaadhinugraha creative <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 04:03:28 2022 +0000
+
+    Merge branch 'local' into 'main'
+    
+    initial
+    
+    See merge request ciptaadhinugraha/sia-unaki!1
+
+[33mcommit 29e1c56c480a5633ff419b2989417bec0e8bdcdd[m
+Merge: d6f17ce 61a0981
+Author: ciptaadhinugraha creative <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 04:01:01 2022 +0000
+
+    Merge branch 'main' into 'local'
+    
+    # Conflicts:
+    #   README.md
+
+[33mcommit d6f17ce9e0fe642268a3dd2d462b24cee5facac6[m
+Author: unknown <ciptaadhinugraha@gmail.com>
+Date:   Thu May 19 10:56:55 2022 +0700
+
+    initial
+
+[33mcommit 61a0981cf3d035399629094dd6849669a2a558d3[m
+Author: ciptaadhinugraha creative <ciptaadhinugraha@gmail.com>
+Date:   Thu Mar 31 01:03:48 2022 +0000
+
+    Initial commit

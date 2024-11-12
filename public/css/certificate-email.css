@@ -1,0 +1,142 @@
+    section {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #fff;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }
+
+    @media (min-width: 1400px) {
+        .container,
+        .container-lg,
+        .container-md,
+        .container-sm,
+        .container-xl,
+        .container-xxl {
+            max-width: 1200px;
+        }
+    }
+
+    .text-blue {
+        color: #1b5bff;
+    }
+    .text-white {
+        color: white;
+    }
+    .text-bold {
+        font-weight: bold;
+    }
+    .bg-green {
+        background-color: #4fd66d !important;
+    }
+    .bg-gray {
+        background-color: #9b9b9b;
+    }
+    .bg-blue {
+        background-color: #1b5bff;
+    }
+
+    .content {
+        background-color: #c1c1c1;
+        padding: 2rem 5rem;
+    }
+    .letter-received {
+        background-color: #e8e8e8;
+        border-radius: 12px;
+        padding: 2rem;
+        font-family: "Lato", sans-serif;
+    }
+
+    .letter-received p,
+    ol > li {
+        font-family: "lato";
+        line-height: 2.3rem;
+    }
+    .letter-received-title {
+        margin-top: 10rem;
+        margin-bottom: 2rem;
+    }
+    .letter-received-title h4 {
+        text-align: center;
+        font-weight: bold;
+    }
+    .sp-nama {
+        margin-left: 6rem;
+        margin-right: 2rem;
+    }
+    .sp-reg {
+        margin-left: 2.5rem;
+        margin-right: 2rem;
+    }
+    .sp-faculty {
+        margin-left: 5rem;
+        margin-right: 2rem;
+    }
+    .sp-program {
+        margin-left: 4.8rem;
+        margin-right: 2rem;
+    }
+    .sp-progdi {
+        margin-left: 2.3rem;
+        margin-right: 2rem;
+    }
+
+    .received-title,
+    .received-title h1 {
+        font-weight: bold;
+        text-align: center;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .letter-received ol {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .ttd {
+        margin-top: 7rem;
+    }
+    .ttd .nama {
+        margin-top: 10rem;
+    }
+    .details {
+        background-color: #e8e8e8;
+        border-radius: 12px;
+        margin-top: 3rem;
+        padding: 3.5rem 5rem;
+    }
+
+    .details p,
+    ul > li,
+    td {
+        font-family: "lato";
+        line-height: 2.3rem;
+    }
+
+    .details h4 {
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 4rem;
+    }
+
+    .details table {
+        padding: 10rem;
+    }
+
+    .details table tr > th {
+        background: #1b5bff;
+        color: white;
+    }
+
+    table th:first-child,
+    td:first-child {
+        border-radius: 10px 0 0 10px;
+        padding-left: 3rem;
+    }
+
+    table th:last-child,
+    td:last-child {
+        border-radius: 0 10px 10px 0;
+        padding-left: 3rem;
+    }

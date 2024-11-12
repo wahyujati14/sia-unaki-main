@@ -1,0 +1,143 @@
+* {
+margin: 0;
+padding: 0;
+font-family: "lato", sans-serif;
+}
+section {
+background-repeat: no-repeat;
+background-size: cover;
+background-color: #fff;
+}
+.navbar-collapse {
+margin: 0;
+}
+
+@media (min-width: 1400px) {
+.container,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+    max-width: 1200px;
+}
+}
+
+.text-blue {
+color: #1b5bff;
+}
+.text-white {
+color: white;
+}
+.text-bold {
+font-weight: bold;
+}
+.bg-green {
+background-color: #4fd66d !important;
+}
+.bg-gray {
+background-color: #9b9b9b;
+}
+.bg-blue {
+background-color: #1b5bff;
+}
+
+.content {
+background-color: #f8f9fa;
+padding: 2rem 5rem;
+}
+
+.form-regist {
+background-color: white;
+border-radius: 12px;
+}
+.form-regist h2 {
+font-weight: bold;
+text-align: center;
+font-family: "Montserrat", sans-serif;
+}
+.form-regist h6 {
+text-align: center;
+}
+
+.form-regist ol {
+line-height: 2rem;
+}
+.yellow {
+background-color: #ffcd1b;
+height: 100%;
+padding: 1rem;
+margin-left: 3rem;
+}
+
+.bdr-bottom {
+background-color: #427478;
+height: 12px;
+border: none;
+margin: 0;
+}
+.bdr-top {
+background-color: #ffcd1b;
+height: 9px;
+border: none;
+margin: 0;
+}
+
+label.label input[type="file"] {
+position: absolute;
+top: -1000px;
+}
+.label {
+cursor: pointer;
+border-radius: 5px;
+padding: 0.5rem 1.75rem;
+background: #e0e0e0;
+border-radius: 4.8px;
+display: inline-block;
+font-size: 1.25rem;
+}
+
+.bank {
+background: #fafcfe;
+border-radius: 12px;
+width: 100%;
+height: 275px;
+}
+.btn-bank {
+border: 1px solid #1b5bff;
+background-color: #fff;
+border-radius: 4.8px;
+font-family: "Lato", sans-serif;
+color: #1b5bff;
+font-size: 20px;
+padding: 0.5rem 1rem;
+}
+
+.bank img {
+width: 192px;
+}
+
+.bank h6 {
+font-size: 24px;
+}
+
+.form-upload {
+background-color: #fff;
+border-radius: 12px;
+margin-top: 3rem;
+padding: 3rem 3rem;
+}
+.btn-acc {
+background: #1b5bff;
+color: white;
+border-radius: 4.8px;
+width: 100%;
+height: 55px;
+font-size: 18px;
+border: none;
+}
+
+.text-mons {
+font-family: "Montserrat", sans-serif !important;
+font-weight: 800;
+}
